@@ -1,4 +1,4 @@
-# 👋 Hi, I’m N1ckPed
+# 👋 Hi, I’m The Struggling Dev
 
 - 🌟 I’m passionate about Data Science and currently diving into Machine Learning.
 - 📚 I’m learning and exploring various ML techniques and tools.
