@@ -8,7 +8,7 @@
 😞👨‍💻 Backend developer in progress.  
 Currently learning Java, Spring Boot, APIs, databases, Linux, servers… and how not to break everything.
 
-## 📺 Find Me on YouTube
+## 🌍 Find Me Online
 [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe%20🡆-The%20Struggling%20Dev-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TheStruggleDev)
 [![Instagram](https://img.shields.io/badge/Instagram-@thestrugglingdev_-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thestrugglingdev_/)
 
