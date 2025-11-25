@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="(https://github.com/TheStrugglingDev/TheStrugglingDev/blob/main/banner.png)" alt="The Struggling Dev Banner" />
+  <img src="https://raw.githubusercontent.com/TheStrugglingDev/TheStrugglingDev/main/banner.png" alt="The Struggling Dev Banner" />
 </p>
+
 
 # 👋 Hi, I’m *The Struggling Dev*
 
