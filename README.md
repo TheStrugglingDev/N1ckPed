@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="(https://github.com/TheStrugglingDev/TheStrugglingDev/blob/main/banner.png)" alt="The Struggling Dev Banner" />
+</p>
+
 # 👋 Hi, I’m *The Struggling Dev*
 
 😞👨‍💻 Backend developer in progress.  
